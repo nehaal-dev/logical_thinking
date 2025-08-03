@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Logical Thinking – PHP Coding Practice
 
 This repository is dedicated to strengthening logical thinking and problem-solving skills using  PHP.  
@@ -57,3 +58,6 @@ Made with ❤️ by Nehaal Khan
 📧 Email: [nehalkhan4639@gmail.com](mailto:nehalkhan4639@gmail.com)  
 🌐 Portfolio:[https://nehaal.netlify.app](https://nehaal.netlify.app) 
 🐙 GitHub: [@nehaal-dev](https://github.com/nehaal-dev)
+=======
+# logical_thinking
+>>>>>>> 0e9ec72ee029033681c1a3845cd7a44cac4b680b
