@@ -8,7 +8,7 @@ $sum=0;
 for($i=0; $i < count($arr);$i++){
     $sum+=$arr[$i];
      
-}
+} 
 
 echo $avg=$sum / count($arr);
 
