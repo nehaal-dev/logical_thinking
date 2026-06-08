@@ -2,7 +2,7 @@
 
 //Pattern 3 — Reversal & Two Pointer
 
-//Reverse array manually
+//Reverse array manually and remove dublicate .
 
 error_reporting(E_ALL);
 ini_set('display_errors','ON');
