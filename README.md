@@ -1,146 +1,63 @@
-🚀 45 Days Logical Thinking & Coding Challenge
+<<<<<<< HEAD
+# 🧠 Logical Thinking – PHP Coding Practice
 
-Welcome to my 45 Days Logical Thinking & Coding Challenge repository.
+This repository is dedicated to strengthening logical thinking and problem-solving skills using  PHP.  
+It includes beginner to intermediate level problems covering arrays, strings, number patterns, form handling, and basic data structures.
 
-This repository documents my journey of improving problem-solving skills, logical thinking, and coding fundamentals through consistent daily practice.
+ 
 
-The primary goal is not only to solve coding questions but also to understand the patterns, concepts, and thought process behind every solution.
+## 📌 Topics Covered
 
-⸻
+- 🔁 Loops & Patterns
+- 📦 Arrays (1D & 2D)
+- 🔤 Strings Manipulation
+- 🔢 Number Theory (Prime, Armstrong, Factorial)
+- 📄 Form Validation (GET/POST)
+- 📚 Logic Building Questions (Interview-style)
 
-🎯 Objective
+---
 
-The purpose of this challenge is to:
+## 📂 Folder Structure
 
-* Develop strong logical thinking skills
-* Improve problem-solving ability
-* Build a solid programming foundation
-* Understand coding patterns and techniques
-* Strengthen PHP programming concepts
-* Prepare for coding interviews and technical assessments
 
-⸻
 
-📚 Learning Approach
 
-Instead of solving random questions, I follow a pattern-based learning approach.
 
-By practicing similar types of problems together, it becomes easier to identify patterns and develop the correct problem-solving mindset.
 
-⸻
 
-🧩 Problem Patterns Covered
 
-1. Frequency Count & Hash Map Pattern
+File names are placeholders. Update them as per  actual filenames.
 
-Examples:
+ 
 
-* Count frequency of elements
-* Find duplicate elements
-* Remove duplicate elements
-* First repeating element
-* First non-repeating element
-* Find unique elements
+## 🧰 Tech Stack
 
-⸻
+- 💻 Core PHP
+- 🗂️ HTML/CSS (optional for interface)
+- 📝 No frameworks — pure logic practice
 
-2. Array Traversal Pattern
+---
 
-Examples:
+## 🚀 How to Run
 
-* Find maximum element
-* Find minimum element
-* Calculate sum of elements
-* Calculate average
-* Search for an element
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/nehaal-dev/logical_thinking.git
 
-⸻
 
-3. Reversal & Two Pointer Pattern
 
-Examples:
 
-* Reverse array
-* Reverse string
-* Palindrome check
-* Two pointer based problems
 
-⸻
 
-4. Number Logic Pattern
 
-Examples:
+   ## 🙌 Author
 
-* Reverse Number
-* Palindrome Number
-* Armstrong Number
-* Sum of Digits
-* Count Digits
+Made with ❤️ by Nehaal Khan  
+🎓 MCA Graduate • 💻 Full Stack Developer (Core PHP,Laravel , MySQL, JavaScript,React,Ajax,jQuery,REST API )
 
-⸻
-
-5. Logical Thinking Exercises
-
-Examples:
-
-* Pattern identification
-* Condition-based problems
-* Mathematical reasoning
-* Basic algorithm design
-
-⸻
-
-💡 Learning Philosophy
-
-This repository focuses on:
-
-* Understanding concepts instead of memorizing solutions
-* Building problem-solving intuition
-* Writing code from scratch
-* Learning through practice and repetition
-* Improving analytical thinking
-* Developing a strong coding mindset
-
-⸻
-
-🛠️ Technologies Used
-
-* PHP
-* Problem Solving
-* Logical Thinking
-* Algorithms Fundamentals
-* Data Structures Fundamentals
-
-⸻
-
-📈 Progress
-
-This repository is updated regularly as part of my daily coding practice.
-
-New questions, solutions, and patterns will continue to be added throughout the challenge.
-
-⸻
-
-🎯 Current Goal
-
-Build a strong foundation in:
-
-* Logical Thinking
-* Problem Solving
-* Programming Fundamentals
-* Data Structures & Algorithms Preparation
-
-before moving toward advanced DSA concepts and interview-level problems.
-
-⸻
-
-👨‍💻 Author
-
-Nehal Khan
-PHP Laravel Developer
-
-🔗 GitHub: https://github.com/nehaal-dev
-
-⸻
-
-⭐ If you find this repository useful, feel free to explore the solutions and follow my learning journey.
+📧 Email: [nehalkhan4639@gmail.com](mailto:nehalkhan4639@gmail.com)  
+🌐 Portfolio:[https://nehaal.netlify.app](https://nehaal.netlify.app) 
+🐙 GitHub: [@nehaal-dev](https://github.com/nehaal-dev)
+=======
+# logical_thinking
+>>>>>>> 0e9ec72ee029033681c1a3845cd7a44cac4b680b
